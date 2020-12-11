@@ -2,6 +2,8 @@
 
 SpyQL is a spy-themed browser-based game that helps developers learn SQL, deployed here: https://spyql.herokuapp.com/.
 
+![spyql-level1](https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif)
+
 Collaborators: Melody Chen, Jackie Feit, Sydney Scott
 
 ## Libraries that were used in this project:
